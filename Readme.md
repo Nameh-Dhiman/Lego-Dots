@@ -1,5 +1,6 @@
 ## Lego Dots "What's your Aesthetic" Quiz Live Project
----
+___
+
 <p>
 This was an individual freelancing project where i got to work for the LEGO Group.
 Goal behind the project was to create a full stack quiz application where the user can go through a set of questions and based on the answers the users would get the results on the app as well as their personal emails. This is a live LEGO Group project and would be live for 3 months. 
