@@ -1,7 +1,7 @@
 ## Lego Dots "What's your Aesthetic" Quiz Live Project
 ___
 
-**Based on the agreement with the company, the code and resources of the project are confidential and non-shareable.** 
+**Based on the agreement with the company, the code and assets of the project are confidential and non-shareable.** 
 <p>
 This was an individual freelancing project where I got to work for the LEGO Group. The goal behind the project was to create a FullStack Quiz Web Application where the user can go through a set of questions, and based on the selection of their answers, the user will get the result on the app and their emails as well. It's a live LEGO Group project and will be live for the next three months.
 <br/>
