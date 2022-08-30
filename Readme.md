@@ -3,7 +3,7 @@ ___
 
 **Based on the agreement with the company, the code and assets of the project are confidential and non-shareable.** 
 <p>
-This was an individual freelancing project where I got to work for the LEGO Group. The goal behind the project was to create a FullStack Quiz Web Application where the user can go through a set of questions, and based on the selection of their answers, the user will get the result on the app and their emails as well. It's a live LEGO Group project and will be live for the next three months.
+This was an individual freelancing project where I got to work for the LEGO Group. The goal behind the project was to create a FullStack Quiz Web Application for one of the LEGO Live events where the user can go through a set of questions, and based on the selection of their answers, the user will get the result on the app and their emails as well. The Website had to be compatible with Tablets, Phones, Desktops, and Kiosk displays. It's a live LEGO Group project and will be live for the next three months i.e., Nov 2022.
 <br/>
 
 </p>
