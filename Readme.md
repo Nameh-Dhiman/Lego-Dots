@@ -8,6 +8,7 @@ This was an individual freelancing project where I got to work for the LEGO Grou
 
 </p>
 
+* [Click Here](http://youdotyou.com/ "LEGO Dots") to view the live project.
 * [Click Here](https://www.youtube.com/playlist?list=PLRNbTEZ7dhL03miFU1G_KVeQ--lECTyFo "Youtube") to view the event playlist.
 
 <p>
